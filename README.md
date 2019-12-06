@@ -1,3 +1,18 @@
+
+# npm install
+
+# npm start
+
+# Project Screenshot
+
+
+<img width="1440" alt="pizza1" src="https://user-images.githubusercontent.com/12670383/70319818-a6935800-183c-11ea-8fff-46b2b3df3a60.png">
+
+<img width="1438" alt="pizza2" src="https://user-images.githubusercontent.com/12670383/70319824-aa26df00-183c-11ea-8fb3-a12bdb01bfbf.png">
+
+<img width="1440" alt="pizza3" src="https://user-images.githubusercontent.com/12670383/70319830-adba6600-183c-11ea-86cd-ac4b5bf91d28.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
